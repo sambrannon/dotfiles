@@ -56,6 +56,8 @@ The following is a list of common apps to install on a fresh OSX install
   7. toggle hidden files in finder
       `defaults write com.apple.finder AppleShowAllFiles NO`
       `killall Finder`
+  8. Set up global Git config `git config --global --edit`
+  9. Add ssh key to Github
 
 ## Setting up Atom
   1. Open for first time
