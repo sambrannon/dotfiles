@@ -37,8 +37,9 @@ The following is a list of common apps to install on a fresh OSX install
   - spotify
 
 **Non-homebrew-cask && non-app-store apps**
-  - Airmail Beta ([download](https://rink.hockeyapp.net/apps/84be85c3331ee1d222fd7f0b59e41b04))
+  - [Airmail Beta](https://rink.hockeyapp.net/apps/84be85c3331ee1d222fd7f0b59e41b04)
     - Import account settings from Dropbox
+  - [MenuBrain](http://menubrain.com/)
 
 ## Setting up iTerm
 
